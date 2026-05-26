@@ -1,3 +1,5 @@
+# AOSP 源码开发辅助工具-AndroidSupportFramework
+[English Version / 英文版](README_EN.md)
 ## 前言
 
 从安卓应用开发转行做系统开发后，用 Android Studio 编写 Framework 代码总觉得很不习惯。不仅没有智能代码提示，也无法直接跳转源码，查阅代码逻辑只能手动检索，VS Code 也存在同样的问题，整体开发效率偏低。
